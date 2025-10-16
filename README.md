@@ -26,7 +26,7 @@
 
 ## 課程注意事項
 
-* 程式問題提問，請在[Issues](https://github.com/joshhu/sculinebot2025/issues)上提問，並且提供程式碼，錯誤訊息，以及問題描述，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式。
+* 程式問題提問，請在[Issues](https://github.com/joshhu/mustlinebot2025/issues)上提問，並且提供程式碼，錯誤訊息，以及問題描述，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式。
 * 密鑰名稱為求符合命名標準，統一使用下列格式：
     - LINE的channel secret：`YOUR_CHANNEL_SECRET`
     - LINE的channel access token：`YOUR_CHANNEL_ACCESS_TOKEN`
