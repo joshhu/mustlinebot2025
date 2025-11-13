@@ -2,14 +2,14 @@
 
 ## 課前準備
 1. Google帳號，申請Google AI Studio帳號的API金鑰
-2. Huggingface的帳號
-3. LINE的帳號
-4. 課程中遇到問題，在Slido上提問
-5. 下課後問題，在本課程的Github上Issue提問(需註冊Github帳號)
-6. 能執行Powershell的Windows電腦或者Terminal的Mac電腦
+2. LINE的帳號
+3. 課程中遇到問題，在Slido上提問
+4. 下課後問題，在本課程的Github上Issue提問(需註冊Github帳號)
 
 ## 課程簡介
-在Huggingface Space上建立LINE Bot，具備下列功能
+
+使用 Google Gemini API 開發 LINE Bot，具備下列功能：
+
 1. 用繁體中文的聊天機器人
 2. Text-to-image機器人
 3. Image-to-text機器人
@@ -20,7 +20,6 @@
 - 開發環境安裝及測試
 - 基礎觀念及知識
 - 帳號申請及金鑰
-- Huggingface Space的建立及使用
 - 程式碼撰寫及說明
 - Google Gemini API說明及整合
 
