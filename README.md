@@ -30,6 +30,7 @@
     - LINE的channel secret：`YOUR_CHANNEL_SECRET`
     - LINE的channel access token：`YOUR_CHANNEL_ACCESS_TOKEN`
     - Google AI Studio的API key：`GOOGLE_API_KEY`
+    - ngrok的authtoken：`NGROK_AUTHTOKEN`
 
 
 ## 上課日期
