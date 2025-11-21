@@ -27,9 +27,9 @@
 
 * 程式問題提問，請在[Issues](https://github.com/joshhu/mustlinebot2025/issues)上提問，並且提供程式碼，錯誤訊息，以及問題描述，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式。
 * 密鑰名稱為求符合命名標準，統一使用下列格式：
-    - LINE的channel secret：`YOUR_CHANNEL_SECRET`
-    - LINE的channel access token：`YOUR_CHANNEL_ACCESS_TOKEN`
-    - Google AI Studio的API key：`GOOGLE_API_KEY`
+    - LINE的channel secret：`LINE_CHANNEL_SECRET`
+    - LINE的channel access token：`LINE_CHANNEL_ACCESS_TOKEN`
+    - Google AI Studio的API key：`GOOGLE_GEMINI_API_KEY`
     - ngrok的authtoken：`NGROK_AUTHTOKEN`
 
 
