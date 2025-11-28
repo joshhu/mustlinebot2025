@@ -5,6 +5,7 @@
 2. LINE的帳號
 3. 課程中遇到問題，在Slido上提問
 4. 下課後問題，在本課程的Github上Issue提問(需註冊Github帳號)
+5. 最新建立LINE Messaging API Channel方法，參考[這邊](https://hackmd.io/@joshhu/rJqjhJI--x)
 
 ## 課程簡介
 
