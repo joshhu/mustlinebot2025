@@ -30,7 +30,7 @@
 * 密鑰名稱為求符合命名標準，統一使用下列格式：
     - LINE的channel secret：`LINE_CHANNEL_SECRET`
     - LINE的channel access token：`LINE_CHANNEL_ACCESS_TOKEN`
-    - Google AI Studio的API key：`GOOGLE_GEMINI_API_KEY`
+    - Google AI Studio的API key：`GEMINI_API_KEY`
     - ngrok的authtoken：`NGROK_AUTHTOKEN`
 
 
